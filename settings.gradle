@@ -1,0 +1,3 @@
+include ':GoldHelper'
+include ':app'
+rootProject.name = "GoldHelperLibrary"
