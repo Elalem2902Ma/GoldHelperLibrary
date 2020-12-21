@@ -93,7 +93,7 @@ Please Use "this" If You Using Code In Activity Or Use "getContext()" If You Use
         // Replace Gold Library With Your Data
         helper.SaveStringInSharedPreferences(this,"Write Your Key Here","GoldHelper Library");
         
-        //Replace 100 With Your Data
+        //Replace 1 With Your Data
         helper.SaveIntInSharedPreferences(this,"Write Your Key Here",1);
         
         //Replace radioButton.isChecked With Your Data
